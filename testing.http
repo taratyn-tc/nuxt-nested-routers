@@ -11,3 +11,6 @@ GET http://localhost:3000/api/dynamic/test
 ###
 GET http://localhost:3000/api/dynamic-without-base/test
 
+###
+
+GET http://localhost:3000/api/dynamic-without-base/foobar
