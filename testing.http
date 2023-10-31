@@ -1,0 +1,13 @@
+GET http://localhost:3000/api/static
+
+
+###
+GET http://localhost:3000/api/dynamic/foo
+
+
+###
+GET http://localhost:3000/api/dynamic/test
+
+###
+GET http://localhost:3000/api/dynamic-without-base/test
+
